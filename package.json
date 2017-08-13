@@ -1,0 +1,25 @@
+{
+  "name": "mazes",
+  "version": "1.0.0",
+  "description": "implements all algorithms in Jamis Bucks book of the same name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [
+    "mazes",
+    "functional"
+  ],
+  "author": "Christian Hoerauf",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine": "^2.7.0"
+  },
+  "dependencies": {
+    "core.arity": "^1.0.0",
+    "core.inspect": "^1.0.3",
+    "core.lambda": "^1.0.0",
+    "core.operators": "^1.0.0",
+    "data.maybe": "^1.2.2"
+  }
+}
