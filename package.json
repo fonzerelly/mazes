@@ -4,7 +4,8 @@
   "description": "implements all algorithms in Jamis Bucks book of the same name.",
   "main": "index.js",
   "scripts": {
-    "test": "jasmine"
+    "test": "jasmine",
+    "start": "node ./bin/render_binary_tree_maze.js 5 5"
   },
   "keywords": [
     "mazes",
